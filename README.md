@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**lucasfend/lucasfend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<h3>Im Lucas for those who wonder</h3>
+<p>I do not cheer for any language, but mainly I use java springboot as a web developer.</p>
+<img width="100px" align="right" alt="charizard" src="https://cdn.discordapp.com/attachments/1071906239375745097/1363262198159245443/262MS.gif?ex=6805645c&is=680412dc&hm=89c27be797ade7a97570016b193fbde2a4ce6d907cc2658c19f317d83780fdd7&"/>
+</div>
+<br/>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+  <p>I can go pretty well with</p>
+  <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg"/>
+  <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg"/>
+  <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"/>
+  <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg"/>
+  <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg"/>
+  <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg"/>
+  <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasfend&bg_color=45,330000,990000&icon_color=fff&text_color=fff&show_icons=true&theme=dark&hide_border=true&title_color=fff&border_radius=35&hide_rank=true&include_all_commits=true&text_bold=true&custom_title=stats"/><br/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&bg_color=45,330000,990000&text_color=fff&hide_progress=true&theme=dark&hide_border=true&title_color=fff&border_radius=35&text_bold=true&custom_title=langs&hide=html,css"/>
+</div>
