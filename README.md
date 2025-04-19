@@ -2,8 +2,15 @@
 <div>
 <h3>Im Lucas for those who wonder</h3>
 <p>I do not cheer for any language, but mainly I use java springboot as a web developer.</p>
-<img width="100px" align="right" alt="charizard" src="https://cdn.discordapp.com/attachments/1071906239375745097/1363262198159245443/262MS.gif?ex=6805645c&is=680412dc&hm=89c27be797ade7a97570016b193fbde2a4ce6d907cc2658c19f317d83780fdd7&"/>
+<img width="150px" align="left" alt="pochy" src="https://cdn.discordapp.com/attachments/1071906239375745097/1363261155887284494/006MS.gif?ex=68056363&is=680411e3&hm=cc8265a4de5728e5e6fef1166c05eeffdd0509120e0fdc2917ba9d1fd3fe883d&"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </div>
+
 <br/>
 <br/>
 <br/>
@@ -21,6 +28,6 @@
 </div>
 
 <div style="display: inline_block"><br/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasfend&bg_color=45,330000,990000&icon_color=fff&text_color=fff&show_icons=true&theme=dark&hide_border=true&title_color=fff&border_radius=35&hide_rank=true&include_all_commits=true&text_bold=true&custom_title=stats"/><br/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&bg_color=45,330000,990000&text_color=fff&hide_progress=true&theme=dark&hide_border=true&title_color=fff&border_radius=35&text_bold=true&custom_title=langs&hide=html,css"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasfend&bg_color=45,330000,990000&icon_color=fff&text_color=fff&show_icons=true&theme=dark&hide_border=true&title_color=fff&border_radius=35&hide_rank=true&include_all_commits=true&text_bold=true&custom_title=stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&bg_color=45,330000,990000&text_color=fff&hide_progress=true&theme=dark&hide_border=true&title_color=fff&border_radius=35&text_bold=true&custom_title=langs&hide=html,css"/>
 </div>
