@@ -2,7 +2,7 @@
 <div>
 <h3>Im Lucas for those who wonder</h3>
 <p>I do not cheer for any language, but mainly I use java springboot as a web developer.</p>
-<img width="150px" align="left" alt="pochy" src="https://cdn.discordapp.com/attachments/1071906239375745097/1363261155887284494/006MS.gif?ex=68056363&is=680411e3&hm=cc8265a4de5728e5e6fef1166c05eeffdd0509120e0fdc2917ba9d1fd3fe883d&"/>
+<img width="150px" align="left" alt="pochy" src="https://raw.githubusercontent.com/lucasfend/lucasfend/refs/heads/main/006MS.gif"/>
 <br/>
 <br/>
 <br/>
