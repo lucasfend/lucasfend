@@ -28,6 +28,6 @@
 </div>
 
 <div style="display: inline_block"><br/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasfend&bg_color=45,330000,990000&icon_color=fff&text_color=fff&show_icons=true&theme=dark&hide_border=true&title_color=fff&border_radius=35&hide_rank=true&include_all_commits=true&text_bold=true&custom_title=stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&bg_color=45,330000,990000&text_color=fff&hide_progress=true&theme=dark&hide_border=true&title_color=fff&border_radius=35&text_bold=true&custom_title=langs&hide=html,css"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasfend&icon_color=fff&text_color=fff&card_width=500&show_icons=true&theme=dark&hide_border=true&title_color=fff&hide_rank=true&include_all_commits=true&text_bold=true&custom_title=stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&text_color=fff&card_width=300&hide_progress=true&theme=dark&hide_border=true&title_color=fff&text_bold=true&custom_title=langs&hide=html,css"/>
 </div>
