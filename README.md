@@ -13,7 +13,7 @@
 <br/>
 
 <div style="display: inline_block">
-  <p>I can go pretty well with</p>
+  <p>my stack</p>
   <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg"/>
   <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg"/>
