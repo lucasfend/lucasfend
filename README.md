@@ -4,16 +4,11 @@
 <p>I do not cheer for any language, but mainly I use java springboot as a web developer.</p>
 
 
-<br/>
-<br/>
 </div>
 
-<br/>
-<br/>
-<br/>
 
 <div style="display: inline_block">
-  <p>my stack</p>
+  <p>My stack</p>
   <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg"/>
   <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg"/>
