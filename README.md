@@ -1,7 +1,7 @@
 
 <div>
-<h3>Im Lucas for those who wonder</h3>
-<p>I do not cheer for any language, but mainly I use java springboot as a developer.</p>
+<h3>Im Lucas Fend</h3>
+<p>I mainly use Java Springboot for my personal projects as a backend developer. Vim user :)</p>
 
 
 </div>
