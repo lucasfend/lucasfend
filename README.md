@@ -1,7 +1,8 @@
 
 <div>
 <h3>Im Lucas Fend</h3>
-<p>I mainly use Java Springboot for my personal projects as a backend developer. Vim user :)</p>
+<p>Vim and Fedora lover :)</p>
+<p>Backend Developer</p>
 
 
 </div>
