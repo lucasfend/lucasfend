@@ -1,9 +1,7 @@
 
 <div>
 <h3>Im Lucas Fend</h3>
-<p>Vim and Fedora lover :)</p>
-<p>Backend Developer</p>
-
+<p>Backend Developer. Vim and Fedora lover :)</p>
 
 </div>
 
