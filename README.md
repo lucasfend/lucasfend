@@ -20,5 +20,4 @@
 
 <div style="display: inline_block"><br/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasfend&icon_color=fff&text_color=fff&card_width=300&show_icons=true&theme=dark&hide_border=true&title_color=fff&hide_rank=true&include_all_commits=true&text_bold=true&custom_title=stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&text_color=fff&card_width=200&hide_progress=false&theme=dark&hide_border=true&title_color=fff&text_bold=true&custom_title=langs&hide=html,css,scss"/>
 </div>
