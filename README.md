@@ -1,6 +1,6 @@
 
 <div>
-<h3>Hello, I'm Lucas =D</h3>
+<h3>Hi, I'm Lucas</h3>
 </div>
 <div style="display: inline_block">
   <img width="50px" height="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vim/vim-original.svg"/>
