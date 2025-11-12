@@ -28,3 +28,4 @@ I'm a backend developer familiar with frontend frameworks. All the projects list
 
 ### 📊 Stats
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=lucasfend&show_icons=true&theme=gruvbox)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,docker,aws)](https://skillicons.dev)
