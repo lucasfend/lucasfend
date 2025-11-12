@@ -24,7 +24,7 @@ I'm a backend developer familiar with frontend frameworks. All the projects list
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 -->
-![There's my stack](https://skillicons.dev/icons?i=vim,java,spring,angular,docker,postgres,html,css,js,git,linux)]
+![My stack](https://skillicons.dev/icons?i=vim,java,spring,angular,docker,postgres,html,css,js,git,linux)
 <br />
 #
 
