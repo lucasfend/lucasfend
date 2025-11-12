@@ -1,8 +1,8 @@
-# 🕹 Lucas Fend
+# 🦇 Lucas Fend
 
-**`Backend Developer`**
+**`Digital Artisan (I just code, that's it)`**
 
-I'm a backend developer who knows a bit of frontend frameworks. All my projects down here we're done by me and only me, from the ground to the deploy. Always improving and trying to be a better me than I was yesterday.
+I'm a backend developer familiar with frontend frameworks. All the projects listed here were done solely by me, from the ground to deployment. I am always improving and trying to be better than I was yesterday.
 
   <p align = "left">
       <a href="https://github.com/lucasfend?tab=repositories&sort=stargazers">
@@ -10,7 +10,7 @@ I'm a backend developer who knows a bit of frontend frameworks. All my projects 
   </p>
     
 ---
-### 🔧 Languages and Tools
+### 🧰 Languages and tools
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vim/vim-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg"/>
@@ -22,5 +22,8 @@ I'm a backend developer who knows a bit of frontend frameworks. All my projects 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br />
+
+#
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=lucasfend&show_icons=true&theme=gruvbox)
