@@ -24,10 +24,19 @@ I'm a backend developer familiar with frontend frameworks. All the projects list
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 -->
-![My stack](https://skillicons.dev/icons?i=vim,java,spring,angular,docker,postgres,html,css,js,git,linux)
 <br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,java,spring,angular,docker,postgres,html,css,js,git,linux" />
+  </a>
+</p>
+  
 #
 
 ### 📊 Stats
-![My Github stats](https://github-readme-stats.vercel.app/api?username=lucasfend&show_icons=true&theme=gruvbox)
-![All languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&theme=gruvbox&v=1)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&layout=compact&theme=dracula"/>
+</div>
