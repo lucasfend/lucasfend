@@ -24,9 +24,10 @@ I'm a backend developer familiar with frontend frameworks. All the projects list
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 -->
-[!(https://skillicons.dev/icons?i=vim,java,spring,angular,docker,postgres,html,css,js,git,linux)](https://skillicons.dev)]
+![There's my stack](https://skillicons.dev/icons?i=vim,java,spring,angular,docker,postgres,html,css,js,git,linux)](https://skillicons.dev)
 <br />
 #
 
 ### 📊 Stats
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=lucasfend&show_icons=true&theme=gruvbox)
+![All languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&theme=gruvbox&v=1)
