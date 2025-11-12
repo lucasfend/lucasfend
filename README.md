@@ -11,7 +11,7 @@ I'm a backend developer familiar with frontend frameworks. All the projects list
     
 ---
 ### 🧰 Languages and tools
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vim/vim-original.svg"/>
+<!--<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vim/vim-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg"/>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg"/>
@@ -23,9 +23,10 @@ I'm a backend developer familiar with frontend frameworks. All the projects list
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
-
+-->
+[(https://skillicons.dev/icons?i=vim,java,spring,angular,docker,postgres,html,css,js,git,linux)](https://skillicons.dev)]
+<br />
 #
 
 ### 📊 Stats
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=lucasfend&show_icons=true&theme=gruvbox)
-[![My Skills](https://skillicons.dev/icons?i=vim,java,spring,angular,docker,postgres,html,css,js,git,linux)](https://skillicons.dev)
