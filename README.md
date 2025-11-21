@@ -28,7 +28,7 @@ I'm a backend developer familiar with frontend frameworks. All the projects list
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,java,spring,angular,docker,postgres,html,css,js,git,linux" />
+    <img src="https://skillicons.dev/icons?i=vim,java,spring,angular,ts,nodejs,docker,postgres,html,css,js,git,linux" />
   </a>
 </p>
   
