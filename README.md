@@ -36,7 +36,7 @@ I'm a backend developer familiar with frontend frameworks. All the projects list
 
 ### 📊 Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfend&layout=compact&theme=dracula"/>
 </div>
