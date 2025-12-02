@@ -1,4 +1,4 @@
-# 🦇 Lucas Fend
+# 🦇 Lucas Fernandes
 
 **`Digital Artisan (I just code, that's it)`**
 
