@@ -1,8 +1,8 @@
 # 🦇 Lucas Fernandes
 
-**`Digital Artisan (I just code, that's it)`**
+**`Digital Artisan`**
 
-I'm a backend developer familiar with frontend frameworks. All the projects listed here were done solely by me, from the ground to deployment. I am always improving and trying to be better than I was yesterday.
+I'm a backend developer focusing on Java Spring. All the projects listed here were done solely by me, from the ground to deployment. I am always improving and trying to be better than I was yesterday.
 
   <p align = "left">
       <a href="https://github.com/lucasfend?tab=repositories&sort=stargazers">
