@@ -27,7 +27,7 @@ I'm a backend developer focusing on Java Spring. All the projects listed here we
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,java,spring,angular,ts,nodejs,docker,postgres,git,linux" />
+    <img src="https://skillicons.dev/icons?i=vim,java,spring,angular,ts,nodejs,docker,postgres,git,linux,gcp,gradle&theme=dark&perline=6" />
   </a>
 </p>
   
