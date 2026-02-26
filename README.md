@@ -35,6 +35,6 @@ I'm a backend developer, aspiring software engineer, focusing on Java Spring. Al
 
 ### 📊 Stats
 <div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasfend&theme=tokyonight" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasfend&theme=tokyonight&exclude=HTML,JavaScript" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasfend&theme=gruvbox" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasfend&theme=gruvbox&exclude=HTML,JavaScript" />
 </div>
